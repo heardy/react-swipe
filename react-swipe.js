@@ -17,12 +17,14 @@
     container: {
       overflow: 'hidden',
       visibility: 'hidden',
-      position: 'relative'
+      position: 'relative',
+      height: '100%'
     },
 
     wrapper: {
       overflow: 'hidden',
-      position: 'relative'
+      position: 'relative',
+      height: '100%'
     },
 
     child: {
